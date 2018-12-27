@@ -1,0 +1,75 @@
+Worker
+Surname: surname0
+Name: name0
+id: 0
+salary: -241.79923807737273
+Worker
+Surname: surname1
+Name: name1
+id: 1
+salary: -301.5771678010495
+Worker
+Surname: surname2
+Name: name2
+id: 2
+salary: 78.16272632279386
+Worker
+Surname: surname3
+Name: name3
+id: 3
+salary: 257.8250753521744
+Worker
+Surname: surname4
+Name: name4
+id: 4
+salary: -40.21091165483348
+Worker
+Surname: surname5
+Name: name5
+id: 5
+salary: 434.2176173599379
+Worker
+Surname: surname6
+Name: name6
+id: 6
+salary: -5.026216938189447
+Worker
+Surname: surname7
+Name: name7
+id: 7
+salary: -52.99831054050077
+Worker
+Surname: surname8
+Name: name8
+id: 8
+salary: -429.06831112371606
+Worker
+Surname: surname9
+Name: name9
+id: 9
+salary: -12.797432301744175
+Worker
+Surname: surname10
+Name: name10
+id: 10
+salary: 216.4874244973206
+Worker
+Surname: surname11
+Name: name11
+id: 11
+salary: -110.3207926361201
+Worker
+Surname: surname12
+Name: name12
+id: 12
+salary: 29.940284318090104
+Worker
+Surname: surname13
+Name: name13
+id: 13
+salary: -2.1381629850664536
+Worker
+Surname: surname14
+Name: name14
+id: 14
+salary: 79.39222973264006
