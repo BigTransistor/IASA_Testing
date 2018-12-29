@@ -31,7 +31,7 @@ public class Rozetka_Tests
     @Test
     public void test()throws Exception
     {
-        driver.get("https://rozetka.com.ua/gadzhety-i-podarki/c80017/filter/");
+        driver.get("https://bt.rozetka.com.ua/kuhonnye-moyki/c113805/filter/");
 
         RozetkaItemListPage itemListPage = new RozetkaItemListPage(driver);
         itemListPage.price_filter(100 ,2000);
